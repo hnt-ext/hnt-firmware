@@ -1,0 +1,1 @@
+{"honeytoast_stm32f1cb_TH":{"type":"honeytoast_stm32f1cb_TH","fwver":"210413_2205","signature":"686e742e7573657261707040666678","fwurl":"https://raw.githubusercontent.com/hnt-ext/hnt-firmware-SoC/main/hnt_app_stm32f103cb/fw-bin/HNT_210413_2205.bin","description":"-"}}
